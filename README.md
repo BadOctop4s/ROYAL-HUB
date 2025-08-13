@@ -1,28 +1,37 @@
-<!--<h1 align="center">WindUI</h1> -->
+# RoyalHub
 
+Bem-vindo ao RoyalHub — um script customizado para Roblox desenvolvido para oferecer funcionalidades práticas, úteis e que aprimoram sua experiência no jogo!
 
-<picture>
-    <source srcset="docs/banner-dark.webp" media="(prefers-color-scheme: dark)">
-    <source srcset="docs/banner-light.webp" media="(prefers-color-scheme: light)">
-    <img src="docs/banner-light.png" alt="WindUI Banner">
-</picture>
+# 🚀 Como usar
 
-> [!WARNING]
-> This WindUI was not inspired by, and the name has nothing to do with UI Frameworks
+Para executar o RoyalHub no seu executor de scripts do Roblox, utilize o seguinte código:
+---------------------------------------------------------------------------------------
+loadstring(game:HttpGet(
+---------------------------------------------------------------------------------------
+Este comando carrega e executa o script diretamente do GitHub, iniciando a interface do RoyalHub no seu jogo.
 
+# 🧭 Funcionalidades
 
- 
-> [!WARNING] 
-> WindUI is currently in Beta.
-> This project is still under active development. Bugs, issues, and unstable features may occur. We’re constantly working on improvements, so please be patient and report any problems you encounter.
+    Interface intuitiva e personalizável
 
+    Abas organizadas para diferentes funcionalidades (Main, Troll, Teleport, etc)
 
+    Animações suaves para uma experiência visual agradável
 
-### Credits
-- [Dawid-Scripts](https://github.com/dawid-scripts) 
-- [Lucide-Icons](https://github.com/lucide-icons/lucide) 
+    Suporte para controle via teclado e mouse
 
+    Informações úteis exibidas na GUI (ex: nome do jogador, avisos, etc)
 
-### Links
-- [Discord Server](https://discord.gg/Q6HkNG4vwP)
-- [Documentation](https://Footagesus.github.io/WindUI-Docs/)
+# 🛠️ Como usar
+
+    Clone ou faça download do repositório
+
+    Abra seu executor favorito para Roblox
+
+    Carregue o código acima no executor
+
+    Aproveite as funcionalidades do RoyalHub!
+
+# 🤝 Contribuição
+
+Contribuições são bem-vindas! Se quiser adicionar recursos, corrigir bugs ou sugerir melhorias, fique à vontade para abrir uma issue 
